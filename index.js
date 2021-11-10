@@ -50,4 +50,4 @@ Client.on("messageCreate", message => {
 
 
 
-Client.login(proxess.env.TOKEN);
+Client.login(process.env.TOKEN);
